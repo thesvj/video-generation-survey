@@ -2,6 +2,8 @@
 
 A survey of video generation that covers the whole field:
 
+**[Monthly updates →](UPDATES.md)** what changed in the field, month by month since July 2025.
+
 *Industry and resource lists below were last checked on 2026-10-15. This field changes monthly, so check
 the live leaderboards for current rankings.*
 
